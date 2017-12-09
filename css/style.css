@@ -13,6 +13,24 @@ article {
 header h1 {
     font-size: 4em;
 }
+#carousel > figure > img {
+    display: none;
+    margin: 0px auto;
+}
+#carousel > .visible > img {
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+#carousel > figure > figcaption {
+    display: none;
+}
+#carousel > .visible > figcaption {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
 main {
     padding: 5px 10px;
 }
