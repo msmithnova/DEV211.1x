@@ -1,4 +1,4 @@
-# Course Outline
+# DEV211.1x - Introduction to HTML and Javascript - Microsoft
 
 ## Module 0: Introduction
 About this Course  
